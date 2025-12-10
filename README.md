@@ -21,7 +21,7 @@ https://armsx2.net/
 Any other website is not affiliated with ARMSX2. 
 
 # Google Play Store
-ARMSX2 is available on the Google Play Store once released. 
+ARMSX2 is available on the Google Play Store here: [Download](https://play.google.com/store/apps/details?id=come.nanodata.armsx2.)
 
 # Additional Credits 
 [PCSX2](https://github.com/PCSX2/pcsx2) - ARMSX2 would not be possible without the legendary work from the PCSX2 team. 
